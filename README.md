@@ -30,7 +30,8 @@ It responds to user interactions like `click`, `mouseover`, and `mouseout` with 
 
 ## 👨‍💻 Author
 
-**Abdullah Omar Akram AL-Safar**  
+**Made by Abdullah Omar Akram Al-Safar (Age: 16)**
+
 📺 [LEVEL UP IT - YouTube](https://www.youtube.com/@LEVEL_UP_IT)  
 🔗 [LinkedIn](https://www.linkedin.com/in/abdullah-omar-2a552834b)  
 📬 [Email](mailto:abodyalsafar2009@gmail.com)
